@@ -1,0 +1,5 @@
+*.csv
+*.feather
+*.pkl
+__pycache__
+.vscode
