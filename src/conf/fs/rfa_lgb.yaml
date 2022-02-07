@@ -1,0 +1,11 @@
+name: rfa_lgb_features
+method:
+  _target_: src.fs.rfa_features
+  cv: 3
+  scoring: neg_mean_squared_error
+  model: 
+    _target_: lightgbm.LGBMRegressor
+    n_estimators: 1000
+    device: gpu
+    verbose: -100
+frac: 0.5

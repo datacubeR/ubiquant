@@ -1,5 +1,6 @@
-*.csv
-*.feather
+train.csv
+train.feather
 *.pkl
 __pycache__
 .vscode
+catboost_info

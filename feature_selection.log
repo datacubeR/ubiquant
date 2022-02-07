@@ -1,0 +1,66 @@
+[2022-02-04 17:38:53,508][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 17:38:55,047][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 17:38:58,818][Feature_Selector][INFO] - Total elapsed time: 0.16132372753333282 minutes
+[2022-02-04 17:39:21,549][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 17:39:23,150][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 17:39:26,900][Feature_Selector][INFO] - Total elapsed time: 0.16145473709996924 minutes
+[2022-02-04 17:39:56,080][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 17:39:57,651][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 17:40:01,404][Feature_Selector][INFO] - Total elapsed time: 0.1612129774166533 minutes
+[2022-02-04 17:40:59,396][Feature_Selector][INFO] - Starting psi_features at : 22221.018727384
+[2022-02-04 17:41:03,740][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 17:41:05,291][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 17:41:09,003][Feature_Selector][INFO] - Total elapsed time: 0.16011189530005746 minutes
+[2022-02-04 18:07:09,798][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-04 18:07:14,130][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 18:07:15,711][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 18:08:42,514][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-04 18:08:47,073][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 18:08:48,636][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 18:09:22,718][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-04 18:09:27,618][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 18:09:28,894][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 18:10:08,182][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-04 18:10:12,889][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 18:10:14,460][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 18:14:50,692][Feature_Selector][INFO] - Total elapsed time: 4.708507272633324 minutes
+[2022-02-04 18:20:03,727][Feature_Selector][INFO] - Starting rfa_cb_features
+[2022-02-04 18:20:08,710][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 18:20:10,212][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 18:20:25,248][Feature_Selector][INFO] - Starting rfa_cb_features
+[2022-02-04 18:20:30,119][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 18:20:31,666][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 18:24:26,386][Feature_Selector][INFO] - Starting rfa_cb_features
+[2022-02-04 18:24:31,076][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 18:24:32,672][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 20:46:45,350][Feature_Selector][INFO] - Starting rfa_cb_features
+[2022-02-04 20:46:52,071][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 20:46:53,550][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 20:50:35,495][Feature_Selector][INFO] - Starting rfa_cb_features
+[2022-02-04 20:50:42,424][Feature_Selector][INFO] - 1.0%: 76398848 
+[2022-02-04 20:50:44,021][Feature_Selector][INFO] - Downcasted: 38199424 
+[2022-02-04 21:55:38,047][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-04 21:55:47,160][Feature_Selector][INFO] - 50.0%: 3819954560 
+[2022-02-04 21:59:47,448][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-04 21:59:55,969][Feature_Selector][INFO] - 50.0%: 3819954560 
+[2022-02-04 22:00:55,620][Feature_Selector][INFO] - Downcasted: 1909977280 
+[2022-02-04 22:00:57,458][Feature_Selector][INFO] - Starting psi_features
+[2022-02-04 22:01:06,016][Feature_Selector][INFO] - 50.0%: 3819954560 
+[2022-02-04 22:02:05,297][Feature_Selector][INFO] - Downcasted: 1909977280 
+[2022-02-04 22:04:04,932][Feature_Selector][INFO] - Total elapsed time: 3.1245739340333483 minutes
+[2022-02-04 22:04:05,582][Feature_Selector][INFO] - Starting mi_features
+[2022-02-04 22:04:14,076][Feature_Selector][INFO] - 50.0%: 3819954560 
+[2022-02-04 22:05:13,698][Feature_Selector][INFO] - Downcasted: 1909977280 
+[2022-02-04 23:36:34,520][Feature_Selector][INFO] - Total elapsed time: 92.48230473348328 minutes
+[2022-02-06 12:31:41,536][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-06 12:31:47,828][Feature_Selector][INFO] - 30.0%: 2291972736 
+[2022-02-06 12:32:23,163][Feature_Selector][INFO] - Downcasted: 1145986368 
+[2022-02-06 12:33:04,878][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-06 12:33:17,522][Feature_Selector][INFO] - Starting rfa_xgb_features
+[2022-02-06 12:33:24,135][Feature_Selector][INFO] - 50.0%: 3819954560 
+[2022-02-06 12:34:23,059][Feature_Selector][INFO] - Downcasted: 1909977280 
+[2022-02-06 12:45:09,884][Feature_Selector][INFO] - Total elapsed time: 11.872700828033333 minutes
+[2022-02-06 12:59:13,639][Feature_Selector][INFO] - Starting rfa_lgb_features
+[2022-02-06 12:59:20,353][Feature_Selector][INFO] - 50.0%: 3819954560 
+[2022-02-06 13:00:19,726][Feature_Selector][INFO] - Downcasted: 1909977280 
+[2022-02-06 14:25:57,814][Feature_Selector][INFO] - Total elapsed time: 86.73624578423332 minutes

@@ -1,0 +1,6 @@
+output_file: ${fs.name}_${fs.frac}.csv
+
+hydra:
+  output_subdir: null
+  run:
+    dir: .

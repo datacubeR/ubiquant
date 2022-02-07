@@ -1,0 +1,10 @@
+name: rfa_xgb_features
+method:
+  _target_: src.fs.rfa_features
+  cv: 3
+  scoring: neg_mean_squared_error
+  model: 
+    _target_: xgboost.XGBRegressor
+    objective: reg:squarederror
+    tree_method: gpu_hist
+frac: 0.5

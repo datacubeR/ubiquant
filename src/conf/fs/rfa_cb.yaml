@@ -1,0 +1,11 @@
+name: rfa_cb_features
+method:
+  _target_: src.fs.rfa_features
+  cv: 3
+  scoring: neg_mean_squared_error
+  model: 
+    _target_: catboost.CatBoostRegressor
+    loss_function: RMSE
+    task_type: GPU
+    devices: 0:1
+frac: 0.01

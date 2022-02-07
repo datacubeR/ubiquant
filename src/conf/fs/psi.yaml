@@ -1,0 +1,6 @@
+name: psi_features
+method:
+  _target_: src.fs.psi_features
+  split_frac: 0.7
+
+frac: 0.5

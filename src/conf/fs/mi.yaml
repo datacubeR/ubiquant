@@ -1,0 +1,5 @@
+name: mi_features
+method:
+  _target_: src.fs.mi_features
+
+frac: 0.5
